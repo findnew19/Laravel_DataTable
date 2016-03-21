@@ -21,7 +21,7 @@
 	.wrapper{
 		width: 75%;
 		margin: 0 auto;
-		background: #eee;
+		background: #fff;
 		margin-top: 10px;
 	}
 </style>
